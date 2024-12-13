@@ -7,6 +7,7 @@ Features
 - Draw Mask: Use a brush to draw on the image to create a mask.
 - Brush Controls: Adjust the brush size and color.
 - Export Mask: Export the mask as a separate image.
+  
 Technologies Used
 - React: JavaScript library for building user interfaces.
 - HTML5 Canvas: Used for drawing and painting on the uploaded image.
