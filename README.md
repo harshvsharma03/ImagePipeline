@@ -12,3 +12,5 @@ Technologies Used
 - React: JavaScript library for building user interfaces.
 - HTML5 Canvas: Used for drawing and painting on the uploaded image.
 - CSS: For styling the app and the components.
+
+*** DEPLOYED SITE - https://image_inpainting.playcode.io/ ***
